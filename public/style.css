@@ -1,0 +1,39 @@
+body{
+  background-color: lightblue;
+}
+
+img{
+  width: 300px;
+  border-radius: 50%;
+}
+
+*{
+  font-family: "Roboto", sans-serif; 
+}
+
+h1,
+h2{
+font-family: "Montserrat", sans-serif; 
+}
+
+#landing,
+#gallery{
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+  color: white;
+}
+
+h1{
+  color: green;
+}
+h2{
+  color: lightgreen;
+}
